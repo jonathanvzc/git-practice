@@ -21,4 +21,4 @@ git push: Puja o sube los cambios locales al repositorio Remoto, se especifica l
 git merge: Combina los cambios de las diferentes ramas, se usa para funcionar una rama a otra.
 
 
-Con mucho gusto Sr. Zepeda, le comparto el número de gestion: 186717684, el cual demora en análisis un aproximado de 2-3 días hábiles.
+Nombre: Jonathan Vinicio Zepeda
